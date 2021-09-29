@@ -36,8 +36,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62)
-- Live Site URL: [Add live site URL here](https://mozzarella-chz.github.io/Stats-preview-card/)
+- [solution URL here](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62)
+- [live site URL here](https://mozzarella-chz.github.io/Stats-preview-card/)
 
 ## My process
 
